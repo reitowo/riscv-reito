@@ -1,0 +1,3 @@
+[submodule "vivado-risc-v"]
+	path = vivado-risc-v
+	url = https://github.com/eugene-tarassov/vivado-risc-v.git
